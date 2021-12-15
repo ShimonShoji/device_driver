@@ -44,6 +44,10 @@ $ make clean
 $ echo 0 > /dev/myled0
 ```
 
+# 回路図
+![image444](https://user-images.githubusercontent.com/92902614/146210025-520e54f3-fea3-46bc-ab7c-86ba330e26cf.jpeg)
+
+
 # 製作者
 
 * Shimon Shoji
