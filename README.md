@@ -12,17 +12,17 @@
 * インストール方法
 
 ```
-$ git clone https://github.com/ShimonShoji/devadra.git
-$ cd devadra
+$ git clone git@github.com:ShimonShoji/device_driver.git
+$ cd device_driver
 $ make
-$ sudo insmod myled.ko
+$ sudo insmod centi.ko
 $ sudo chmod 666 /dev/myled0
 $ echo [動作を指定する整数] > /dev/myled0
 ```
 
 * アンインストール方法
 ```
-$ sudo rmmod myled
+$ sudo rmmod centi
 $ make clean
 ```
 
@@ -60,4 +60,4 @@ https://deviceplus.jp/hobby/raspberrypi_i02/　
 
 
 # License
-" ムカデロボ用デバイスドライバー " is under [GNU General Public License v2.0](https://github.com/ShimonShoji/devadra/blob/main/COPYING)
+" ムカデロボ用デバイスドライバー " is under [GNU General Public License v3.0](https://github.com/ShimonShoji/de/blob/main/COPYING)
