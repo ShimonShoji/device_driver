@@ -60,4 +60,4 @@ https://deviceplus.jp/hobby/raspberrypi_i02/　
 
 
 # License
-" ムカデロボ用デバイスドライバー " is under [GNU General Public License v3.0](https://github.com/ShimonShoji/de/blob/main/COPYING)
+" ムカデロボ用デバイスドライバー " is under [GNU General Public License v3.0](https://github.com/ShimonShoji/device_driver/blob/main/COPYING)
