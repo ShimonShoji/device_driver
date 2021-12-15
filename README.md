@@ -56,10 +56,7 @@ $ echo 0 > /dev/myled0
 
 
 # 参考
-「Lチカ＋モータonラズパイ。より大きな電流の扱い方を知る」　
-
-https://deviceplus.jp/hobby/raspberrypi_i02/　
-
+[「Lチカ＋モータonラズパイ。より大きな電流の扱い方を知る」](https://deviceplus.jp/hobby/raspberrypi_i02/)
 (accessed 2021/12/14)
 
 
