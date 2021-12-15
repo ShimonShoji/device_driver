@@ -7,15 +7,6 @@
 * Raspberry Pi 3B+
 * Ubuntu 18.04 LTS
 
-# ムカデロボ制作に用いたもの
-*　髪ブラシ
-*　アクリル板
-*　モバイルバッテリー
-*　モーター
-*　電池ボックス
-*　抵抗(1kΩ,10kΩ)
-*　LED
-
 # コードの使用方法
 
 * インストール方法
@@ -56,13 +47,19 @@ $ echo 0 > /dev/myled0
 # 回路図
 ![image444](https://user-images.githubusercontent.com/92902614/146210025-520e54f3-fea3-46bc-ab7c-86ba330e26cf.jpeg)
 
+# ムカデロボ制作に用いたもの
+*　髪ブラシ
+*　アクリル板
+*　モバイルバッテリー（品番：M4161P）
+*　モーター (品番：00-1741)
+*　抵抗(1kΩ,10kΩ)
+*　電池ボックス
+*　LED
 
 # 製作者
 
 * Shimon Shoji
 * Chiba Institute of Technology
-* shimon.shoji@gmal.com
-
 
 # 参考
 [「Lチカ＋モータonラズパイ。より大きな電流の扱い方を知る」](https://deviceplus.jp/hobby/raspberrypi_i02/)
