@@ -1,13 +1,22 @@
 # ムカデロボ用デバイスドライバー
 
-振動によって、前方,右方,左方に進むことのできるおもちゃ「ムカデロボ」に使用するデバイスドライバーです。
+２つのモーターのon/offを操作をするデバイスドライバーです。
 
 # 環境
 
 * Raspberry Pi 3B+
 * Ubuntu 18.04 LTS
 
-# 使用方法
+# ムカデロボ制作に用いたもの
+*　髪ブラシ
+*　アクリル板
+*　モバイルバッテリー
+*　モーター
+*　電池ボックス
+*　抵抗(1kΩ,10kΩ)
+*　LED
+
+# コードの使用方法
 
 * インストール方法
 
@@ -60,5 +69,5 @@ $ echo 0 > /dev/myled0
 (accessed 2021/12/14)
 
 
-# License
+# ライセンス
 " ムカデロボ用デバイスドライバー " is under [GNU General Public License v3.0](https://github.com/ShimonShoji/device_driver/blob/main/COPYING)
