@@ -48,6 +48,9 @@ $ echo 0 > /dev/myled0
 
 # 回路図
 ![image444](https://user-images.githubusercontent.com/92902614/146210025-520e54f3-fea3-46bc-ab7c-86ba330e26cf.jpeg)
+参考にした回路[1]に加えて、もう一つ同じ機構の回路を導入した。
+電流の逆流が怖かったためledを用い、対応するLEDのon/offで動作するモーターの判別ができるようになった。
+
 
 # ムカデロボ制作に用いたもの
 * 髪ブラシ
@@ -64,6 +67,7 @@ $ echo 0 > /dev/myled0
 * Chiba Institute of Technology
 
 # 参考
+[1] 
 [「Lチカ＋モータonラズパイ。より大きな電流の扱い方を知る」](https://deviceplus.jp/hobby/raspberrypi_i02/)
 (accessed 2021/12/14)
 
