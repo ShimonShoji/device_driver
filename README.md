@@ -48,9 +48,9 @@ $ echo 0 > /dev/myled0
 
 # 回路図
 ![image444](https://user-images.githubusercontent.com/92902614/146210025-520e54f3-fea3-46bc-ab7c-86ba330e26cf.jpeg)
-参考にした回路[[1]](https://github.com/ShimonShoji/device_driver/blob/main/README.md#%E5%8F%82%E8%80%83)に加えて、もう一つ同じ機構の回路を導入した。
+参考にした回路[[1]](https://github.com/ShimonShoji/device_driver/blob/main/README.md#%E5%8F%82%E8%80%83)に加えて、もう一つ同じ機構の回路を組み込んだ。
 
-また、電流の逆流が怖かったためledを用い、対応するLEDのon/offで動作するモーターの判別ができるようになった。
+また、電流の逆流が怖かったためledを用い、対応するLEDのon/offで動作するモーターの判別ができるようにした。
 
 
 # ムカデロボ制作に用いたもの
