@@ -77,6 +77,10 @@ $ echo 0 > /dev/myled0
 [「Lチカ＋モータonラズパイ。より大きな電流の扱い方を知る」](https://deviceplus.jp/hobby/raspberrypi_i02/)
 (accessed 2021/12/14)
 
+# Update
+* 0.0.2
+インデントを修正しました。
+0,1,2,3以外の値を送ったときの動作を追加しました。
 
 # ライセンス
 " ムカデロボ用デバイスドライバー " is under [GNU General Public License v3.0](https://github.com/ShimonShoji/device_driver/blob/main/COPYING)
