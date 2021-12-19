@@ -69,8 +69,13 @@ $ echo 0 > /dev/myled0
 * 電池ボックス（単三x3直列）
 * LED
 
-# 製作者
+# Update
+* 0.0.2
 
+説明文とインデントを修正しました。
+0,1,2,3以外の値を送ったときの動作を追加しました。
+
+# 製作者
 * Shimon Shoji
 * Chiba Institute of Technology
 
@@ -78,12 +83,6 @@ $ echo 0 > /dev/myled0
 [1] 
 [「Lチカ＋モータonラズパイ。より大きな電流の扱い方を知る」](https://deviceplus.jp/hobby/raspberrypi_i02/)
 (accessed 2021/12/14)
-
-# Update
-* 0.0.2
-
-説明文とインデントを修正しました。
-0,1,2,3以外の値を送ったときの動作を追加しました。
 
 # ライセンス
 " ムカデロボ用デバイスドライバー " is under [GNU General Public License v3.0](https://github.com/ShimonShoji/device_driver/blob/main/COPYING)
