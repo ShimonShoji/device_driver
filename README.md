@@ -53,7 +53,7 @@ $ echo 0 > /dev/myled0
 ![image444](https://user-images.githubusercontent.com/92902614/146210025-520e54f3-fea3-46bc-ab7c-86ba330e26cf.jpeg)
 参考にした回路[[1]](https://github.com/ShimonShoji/device_driver/blob/main/README.md#%E5%8F%82%E8%80%83)に加えて、もう一つ同じ機構の回路を組み込んだ。
 
-また、電流の逆流が怖かったためledを用い、対応するLEDのon/offで動作するモーターの判別ができるようにした。
+また、電流の逆流が怖かったためledを用い、LEDのon/offで、対応するGPIOからの出力の有無を判別できるようにした。
 
 # ムカデロボ本体とその動作
 [動画](https://youtu.be/00aMZ1T5Yws)
