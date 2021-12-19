@@ -49,7 +49,7 @@ $ echo 0 > /dev/myled0
 ```
 
 # 回路図
-![imageeeeee](https://user-images.githubusercontent.com/92902614/146540521-f41a8b3a-033a-4305-ada7-3c104bcfb438.jpeg)
+![image666](https://user-images.githubusercontent.com/92902614/146665356-ca214bc6-dc02-4041-90fb-81e229bfae2e.jpeg)
 ![image444](https://user-images.githubusercontent.com/92902614/146210025-520e54f3-fea3-46bc-ab7c-86ba330e26cf.jpeg)
 参考にした回路[[1]](https://github.com/ShimonShoji/device_driver/blob/main/README.md#%E5%8F%82%E8%80%83)に加えて、もう一つ同じ機構の回路を組み込んだ。
 
