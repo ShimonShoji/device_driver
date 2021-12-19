@@ -74,7 +74,7 @@ $ echo 0 > /dev/myled0
 * Shimon Shoji
 * Chiba Institute of Technology
 
-# 参考
+# 参考　
 [1] 
 [「Lチカ＋モータonラズパイ。より大きな電流の扱い方を知る」](https://deviceplus.jp/hobby/raspberrypi_i02/)
 (accessed 2021/12/14)
